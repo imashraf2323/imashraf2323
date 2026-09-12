@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Ashraf!
 <p align="right">
   <img
-    src="Ashrafali.JPG"
+    src="ashraf.JPG"
     width="180"
     height="180"
     style="border-radius: 50%;"

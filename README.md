@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashraf</h1>
+<h3 align="center">CSE(AI) Student | Frontend Developer | React Learner</h3>
 
-<!--
-**imashraf2323/imashraf2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about building beautiful websites and learning modern web technologies.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning: React.js
+
+💻 Skills:
+HTML | CSS | JavaScript | Git | GitHub
+
+🚀 Projects:
+- Birthday Website
+- Portfolio Website
+- JavaScript Projects
+
+📫 Reach me:
+LinkedIn | Email
+
+⚡ Fun fact:
+I love creating creative and aesthetic web designs.

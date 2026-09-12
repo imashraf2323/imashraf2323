@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Ashraf!
 <p align="right">
   <img
-    src="ashraf.JPG"
+    src="https://chatgpt.com/backend-api/estuary/content?id=file_000000008cb882079aa3363a27d25b30&ts=497011&p=fs&cid=1&sig=f44214b3044323d5029fc879b43da28e4a4affb4cc1645b8162cbadfb86af2dd&v=0"
     width="180"
     height="180"
     style="border-radius: 50%;"
@@ -66,42 +66,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imashraf2323&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-| Project             | Description                     | Tech               |
-| ------------------- | ------------------------------- | ------------------ |
-| 🌐 Portfolio        | My personal developer portfolio | HTML • CSS • JS    |
-| 🎂 Birthday Website | Interactive birthday webpage    | HTML • CSS • JS    |
-| ⚛️ React Projects   | My React.js learning projects   | React • JavaScript |
-| 🤖 AI Projects      | Experiments with AI & ML        | Python • AI        |
-
-> ⭐ More projects coming soon...
-
----
-
-## 🎯 2026 Goals
-
-```text
-[████████████████░░░░] 80%  JavaScript
-[████████████░░░░░░░░] 60%  React.js
-[██████████░░░░░░░░░░] 50%  Python
-[███████░░░░░░░░░░░░░] 35%  AI / ML
-[████░░░░░░░░░░░░░░░░] 20%  Open Source
-```
-
-* [x] Learn HTML & CSS
-* [x] Learn JavaScript basics
-* [ ] Master JavaScript
-* [ ] Learn React.js
-* [ ] Build 10+ projects
-* [ ] Contribute to Open Source
-* [ ] Get an internship 🚀
-
----
-
+ 
+------------------------------------------------------------------------------------------
 ## 🌐 Connect With Me
 
 <p align="center">

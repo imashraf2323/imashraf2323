@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Ashraf!
 <p align="right">
   <img
-    src="https://chatgpt.com/backend-api/estuary/content?id=file_000000008cb882079aa3363a27d25b30&ts=497011&p=fs&cid=1&sig=f44214b3044323d5029fc879b43da28e4a4affb4cc1645b8162cbadfb86af2dd&v=0"
+    src="ashraf.JPG"
     width="180"
     height="180"
     style="border-radius: 50%;"

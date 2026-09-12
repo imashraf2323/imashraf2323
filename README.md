@@ -22,6 +22,6 @@ LinkedIn | Email
 
 ⚡ Fun fact:
 I love creating creative and aesthetic web designs.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imashraf2323&show_icons=true)
+![GitHub Stats](https://github-readme-stats.netlify.app/api?username=imashraf2323&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imashraf2323&layout=compact)
+![Top Languages](https://github-readme-stats.netlify.app/api/top-langs/?username=imashraf2323&layout=compact)

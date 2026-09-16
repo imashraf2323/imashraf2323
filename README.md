@@ -1,4 +1,4 @@
-x# 👋 Hey, I'm Ashraf !
+ 👋 Hey, I'm Ashraf !
 <p align="right">
   <img
     src="ashraf.JPG"

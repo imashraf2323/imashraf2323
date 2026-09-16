@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 `whoami`
+## 🧑‍💻 ` Ashraf`
 
 ```python
 class AshrafAli:
@@ -35,7 +35,7 @@ class AshrafAli:
 
 ---
 
-## 🎥 I'm a **Video Coder**
+## 🎥 I'm a **vibe coder **
 
 > I don't just write code —
 > **I create, experiment, build and share.** 🎬💻

@@ -1,107 +1,62 @@
-# 🎬 Hey, I'm Ashraf Ali 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=I'm+a+Video+Coder+%F0%9F%8E%A5;I+Code+%E2%80%A2+I+Create+%E2%80%A2+I+Build+%F0%9F%9A%80;B.Tech+CSE+Student+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Turning+Ideas+Into+Code+%E2%9A%A1" />
+x# 👋 Hey, I'm Ashraf !
+<p align="right">
+  <img
+    src="ashraf.JPG"
+    width="180"
+    height="180"
+    style="border-radius: 50%;"
+    alt="Ashraf"
+  />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=CODE%20%7C%20CREATE%20%7C%20REPEAT&fontSize=32&fontColor=ffffff&animation=twinkling" />
-</p>
-
----
-
-## 🧑‍💻 ` Ashraf`
-
-```python
-class AshrafAli:
-
-    role = "B.Tech CSE Student"
-    passion = ["Coding", "Technology", "Video Creation"]
-
-    languages = [
-        "Python",
-        "C",
-        "C++"
-    ]
-
-    currently_learning = [
-        "DSA",
-        "Web Development",
-        "Backend Development"
-    ]
-
-    motto = "Turning ideas into code 🚀"
-```
-
----
-
-## 🎥 I'm a **vibe coder **
-
-> I don't just write code —
-> **I create, experiment, build and share.** 🎬💻
-
-🎬 Coding Content
-💻 Programming Projects
-🐍 Python Development
-🚀 Learning New Technologies
-⚡ Building Something New
-
----
-
-## 🛠️ Tech Arsenal
+<h3 align="left">
+  🚀 B.Tech CSE (AI) Student | 💻 Frontend Developer | 🤖 AI Enthusiast | Vide coder
+</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,github,vscode" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+love+building+cool+things+%F0%9F%92%BB;Learning+React.js+%E2%9A%9B%EF%B8%8F;Exploring+AI+%F0%9F%A4%96;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 What I'm Building
+## 🧑‍💻 About Me
 
-```text
-┌──────────────────────────────────────────┐
-│                                          │
-│  🐍 Python Projects                      │
-│  🌐 Web Development                      │
-│  🧠 DSA & Problem Solving                │
-│  🎬 Coding Content                       │
-│  🤖 Future AI Projects                   │
-│                                          │
-└──────────────────────────────────────────┘
-```
+* 🎓 B.Tech CSE (AI) Student
+* 🌱 Currently learning **React.js & modern web development**
+* 💻 Interested in **Frontend Development & Artificial Intelligence**
+* 🚀 Building projects and improving my coding skills
+* 🧠 Always curious to learn new technologies
+* ⚡ Fun fact: **I turn ☕ into code!**
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Tech Stack
 
-### 🐍 Python Projects
+### 💻 Languages
 
-> Learning Python by building real-world projects.
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,python" />
+</p>
 
-### 🎓 Student Management System
+### ⚛️ Web Development
 
-> A project designed to manage student information efficiently.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
 
-### 🌐 Personal Portfolio
+### 🤖 AI & Tools
 
-> A modern developer portfolio showcasing my work.
-
-### 🧠 DSA Journey
-
-> My journey of learning Data Structures & Algorithms.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,github,git,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imashraf2323&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imashraf2323&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -109,47 +64,38 @@ class AshrafAli:
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imashraf2323&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🎯 2026 Goals
-
-```text
-[████████░░] Master Python
-[██████░░░░] Learn DSA
-[█████░░░░░] Build Real Projects
-[████░░░░░░] Learn Backend
-[███░░░░░░░] Create More Coding Content
-```
-
----
-
+ 
+------------------------------------------------------------------------------------------
 ## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://github.com/imashraf2323">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/https://www.linkedin.com/in/ashraf-ali-7332a4388">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="YOUR_YOUTUBE">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+## 💭 Developer Quote
+
 <p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
 
-### ⚡ `CODE. CREATE. INSPIRE.` ⚡
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<p align="center">
+  ⭐ If you like my work, consider giving my repositories a star!
+</p>
 
+<p align="center">
+  <b>✨ Thanks for visiting my profile! ✨</b>
 </p>
